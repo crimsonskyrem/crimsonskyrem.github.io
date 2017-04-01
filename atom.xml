@@ -4,7 +4,7 @@
   <title><![CDATA[Crimson Sky]]></title>
   <link href="http://crimsonskyrem.github.io/atom.xml" rel="self"/>
   <link href="http://crimsonskyrem.github.io/"/>
-  <updated>2017-04-01T17:34:04+08:00</updated>
+  <updated>2017-04-01T23:53:08+08:00</updated>
   <id>http://crimsonskyrem.github.io/</id>
   <author>
     <name><![CDATA[Rem]]></name>
@@ -12,5 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[暗时间]]></title>
+    <link href="http://crimsonskyrem.github.io/blog/2017-04-01-%E6%9A%97%E6%97%B6%E9%97%B4.html"/>
+    <updated>2017-04-01T00:00:00+08:00</updated>
+    <id>http://crimsonskyrem.github.io/blog/暗时间</id>
+    <content type="html"><![CDATA[<div id="outline-container-orgc098da2" class="outline-2">
+<h2 id="orgc098da2">书的等级</h2>
+<div class="outline-text-2" id="text-orgc098da2">
+<p>
+<!-- more -->
+</p>
+</div>
+</div>
+<div id="outline-container-org9ba6b2b" class="outline-2">
+<h2 id="org9ba6b2b">原始大脑与现代大脑：自我与超我</h2>
+</div>
+<div id="outline-container-org73dbf2b" class="outline-2">
+<h2 id="org73dbf2b">父母的影响</h2>
+</div>
+<div id="outline-container-org7658e3a" class="outline-2">
+<h2 id="org7658e3a">读书笔记和博客</h2>
+</div>
+]]></content>
+  </entry>
   
 </feed>

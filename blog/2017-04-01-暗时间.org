@@ -1,0 +1,13 @@
+#+TITLE: 暗时间
+#+DATE: 2017-04-01
+#+SETUPFILE: ~/myPro/octopress/setupfile.org
+#+JEKYLL_LAYOUT: post
+#+JEKYLL_CATEGORIES: 
+#+JEKYLL_TAGS: 
+#+JEKYLL_PUBLISHED: true
+
+* 书的等级
+{{{more}}}
+* 原始大脑与现代大脑：自我与超我 
+* 父母的影响
+* 读书笔记和博客
